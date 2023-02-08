@@ -1,5 +1,5 @@
 # Overview
-The purpose of this story is to crete a bike trip analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
+The purpose of this story is to create a bike trip analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 # Results
 As Seen in my challenge story workbook on tableau public : "https://public.tableau.com/app/profile/ezeoke.rita/viz/Challengestory"
