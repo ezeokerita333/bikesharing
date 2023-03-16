@@ -1,8 +1,10 @@
 # Overview
 The purpose of this story is to create a bike trip analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
+![Screenshot 2023-03-16 at 1 14 45 AM](https://user-images.githubusercontent.com/109382758/225521912-9cf9405a-29e1-46c3-a357-ab3fac0f7daa.png)
 # Results
 As Seen in my challenge story workbook on tableau public : "https://public.tableau.com/app/profile/ezeoke.rita/viz/Challengestory"
+
 Graph 1 - A line graph displaying the number of bikes checked out by duration for all users, which can also be filtered by the hour.
 Graph 2 - A line graph displaying the number of bikes that are checked out by duration for each gender by the hour, which can also be filtered by the hour and the gender.
 Graph 3 - A heatmap showing the number of bike trips for each hour of each day of the week.
